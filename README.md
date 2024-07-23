@@ -12,6 +12,3 @@
 // sub-itens
 // Deletar itens
 
-## Instalação de pacotes
- - Necessário instalar express
- - Necessário instalar nodemon
